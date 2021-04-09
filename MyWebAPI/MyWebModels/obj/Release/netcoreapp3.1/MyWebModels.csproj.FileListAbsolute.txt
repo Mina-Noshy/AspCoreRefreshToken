@@ -1,0 +1,17 @@
+F:\Projects\Web\GreenTraderServices\MyWebAPI\MyWebModels\bin\Release\netcoreapp3.1\MyWebModels.deps.json
+F:\Projects\Web\GreenTraderServices\MyWebAPI\MyWebModels\bin\Release\netcoreapp3.1\MyWebModels.dll
+F:\Projects\Web\GreenTraderServices\MyWebAPI\MyWebModels\bin\Release\netcoreapp3.1\MyWebModels.pdb
+F:\Projects\Web\GreenTraderServices\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.AssemblyInfoInputs.cache
+F:\Projects\Web\GreenTraderServices\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.AssemblyInfo.cs
+F:\Projects\Web\GreenTraderServices\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.csproj.CoreCompileInputs.cache
+F:\Projects\Web\GreenTraderServices\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.dll
+F:\Projects\Web\GreenTraderServices\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.pdb
+F:\Projects\Web\StandardAspCoreAPI\MyWebAPI\MyWebModels\bin\Release\netcoreapp3.1\MyWebModels.deps.json
+F:\Projects\Web\StandardAspCoreAPI\MyWebAPI\MyWebModels\bin\Release\netcoreapp3.1\MyWebModels.dll
+F:\Projects\Web\StandardAspCoreAPI\MyWebAPI\MyWebModels\bin\Release\netcoreapp3.1\MyWebModels.pdb
+F:\Projects\Web\StandardAspCoreAPI\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.csprojAssemblyReference.cache
+F:\Projects\Web\StandardAspCoreAPI\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.AssemblyInfoInputs.cache
+F:\Projects\Web\StandardAspCoreAPI\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.AssemblyInfo.cs
+F:\Projects\Web\StandardAspCoreAPI\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.csproj.CoreCompileInputs.cache
+F:\Projects\Web\StandardAspCoreAPI\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.dll
+F:\Projects\Web\StandardAspCoreAPI\MyWebAPI\MyWebModels\obj\Release\netcoreapp3.1\MyWebModels.pdb
